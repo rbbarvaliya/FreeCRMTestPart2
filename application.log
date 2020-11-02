@@ -308,3 +308,18 @@
 2020-11-02 18:04:26,093  INFO [main] Log4jforFREECRM:47 - LoginTest
 2020-11-02 18:04:26,424 FATAL [main] Log4jforFREECRM:49 - this is fatal for id and password
 2020-11-02 18:04:26,426 ERROR [main] Log4jforFREECRM:56 - This is error for loginpagebrowser closing
+2020-11-02 18:12:10,684  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-02 18:12:10,716  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-11-02 18:12:10,725  INFO [main] Log4jforFREECRM:39 - LoginpageTitleTest
+2020-11-02 18:12:10,735  WARN [main] Log4jforFREECRM:41 - This is warning for login title
+2020-11-02 18:12:10,747 ERROR [main] Log4jforFREECRM:56 - This is error for loginpagebrowser closing
+2020-11-02 18:12:11,660 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-02 18:12:11,664 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-11-02 18:12:11,665 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-11-02 18:12:11,666 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-11-02 18:12:11,667 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-11-02 18:12:11,888 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-02 18:12:11,890 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-11-02 18:12:11,890 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-11-02 18:12:11,890 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-11-02 18:12:11,891 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

@@ -49,7 +49,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-FREE_CRM_application_test_automation_Test_Suite" class="navigator-link ">
-                    <span>C:\Users\ravin\eclipse-workspace\FreeCRMTestPart2\testng_smoke.xml</span>
+                    <span>C:\Users\ravin\eclipse-workspace\FreeCRMTestPart2\src\main\resources\testng_sanity.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -102,7 +102,7 @@
                     <div class="method-list-content passed suite-FREE_CRM_application_test_automation_Test_Suite">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-FREE_CRM_application_test_automation_Test_Suite" title="com.crm.qa.testcases.LoginPageTest" class="method navigator-link" hash-for-method="loginTest">loginTest</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-FREE_CRM_application_test_automation_Test_Suite" title="com.crm.qa.testcases.LoginPageTest" class="method navigator-link" hash-for-method="loginPageTitleTest">loginPageTitleTest</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-FREE_CRM_application_test_automation_Test_Suite -->
@@ -125,9 +125,9 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="loginTest">
-                  </a> <!-- loginTest -->
-                  <span class="method-name">loginTest</span>
+                  <a name="loginPageTitleTest">
+                  </a> <!-- loginPageTitleTest -->
+                  <span class="method-name">loginPageTitleTest</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -135,17 +135,20 @@
         </div> <!-- panel FREE_CRM_application_test_automation_Test_Suite -->
         <div panel-name="test-xml-FREE_CRM_application_test_automation_Test_Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\ravin\eclipse-workspace\FreeCRMTestPart2\testng_smoke.xml</span>
+            <span class="header-content">C:\Users\ravin\eclipse-workspace\FreeCRMTestPart2\src\main\resources\testng_sanity.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite name=&quot;FREE CRM application test automation Test Suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.crm.qaExtentReportListener.ExtentReporterNG&quot;/&gt;
+  &lt;/listeners&gt;
   &lt;test thread-count=&quot;5&quot; name=&quot;FREE CRM App Test Cases&quot;&gt;
     &lt;groups&gt;
       &lt;run&gt;
-        &lt;include name=&quot;smoke&quot;/&gt;
+        &lt;include name=&quot;sanity&quot;/&gt;
       &lt;/run&gt;
     &lt;/groups&gt;
     &lt;classes&gt;
@@ -174,10 +177,10 @@
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="test-group">
-              <span class="test-group-name">smoke</span>
+              <span class="test-group-name">sanity</span>
               <br/>
               <div class="method-in-group">
-                <span class="method-in-group-name">loginTest</span>
+                <span class="method-in-group-name">loginPageTitleTest</span>
                 <br/>
               </div> <!-- method-in-group -->
             </div> <!-- test-group -->
@@ -199,14 +202,14 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'loginTest')
+data.setCell(0, 1, 'loginPageTitleTest')
 data.setCell(0, 2, 'com.crm.qa.testcases.LoginPageTest')
-data.setCell(0, 3, 1104);
+data.setCell(0, 3, 20);
 window.suiteTableData['FREE_CRM_application_test_automation_Test_Suite']= { tableData: data, tableDiv: 'times-div-FREE_CRM_application_test_automation_Test_Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 1 seconds</span>
+              <span class="suite-total-time">Total running time: 20 ms</span>
               <div id="times-div-FREE_CRM_application_test_automation_Test_Suite">
               </div> <!-- times-div-FREE_CRM_application_test_automation_Test_Suite -->
             </div> <!-- times-div -->
@@ -227,7 +230,7 @@ return data;
             <div class="ignored-class-div">
               <span class="ignored-class-name">com.crm.qa.testcases.LoginPageTest</span>
               <div class="ignored-methods-div">
-                <span class="ignored-method-name">loginPageTitleTest</span>
+                <span class="ignored-method-name">loginTest</span>
                 <br/>
               </div> <!-- ignored-methods-div -->
             </div> <!-- ignored-class-div -->
@@ -245,12 +248,12 @@ return data;
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">loginTest</span>
-                <span class="method-start">10279 ms</span>
+                <span class="method-name">loginPageTitleTest</span>
+                <span class="method-start">8509 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">11395 ms</span>
+                <span class="method-start">8537 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

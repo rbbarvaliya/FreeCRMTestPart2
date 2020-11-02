@@ -49,7 +49,6 @@ public class LoginPageTest extends TestBase{
 		log.fatal("this is fatal for id and password");
 	}
 	
-	
 
 	@AfterMethod (alwaysRun = true)
 	public void tearDown() {
