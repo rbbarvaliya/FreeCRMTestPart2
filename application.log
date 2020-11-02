@@ -1,0 +1,177 @@
+2020-10-29 23:18:29,767  INFO [main] LoginPageTest:34 - launching browser for login Test
+2020-10-29 23:18:29,818  INFO [main] LoginPageTest:36 - entering in to application
+2020-10-29 23:18:29,854  INFO [main] LoginPageTest:41 - ***********************LoginpageTitleTest************************
+2020-10-29 23:18:29,877  WARN [main] LoginPageTest:43 - This is warning for login title
+2020-10-29 23:18:30,727 ERROR [main] LoginPageTest:59 - This is error for browser closing
+2020-10-29 23:18:38,160  INFO [main] LoginPageTest:34 - launching browser for login Test
+2020-10-29 23:18:38,163  INFO [main] LoginPageTest:36 - entering in to application
+2020-10-29 23:18:38,166  INFO [main] LoginPageTest:49 - ***************************
+2020-10-29 23:18:38,693 FATAL [main] LoginPageTest:51 - this is fatal for id and password
+2020-10-29 23:18:39,404 ERROR [main] LoginPageTest:59 - This is error for browser closing
+2020-10-29 23:20:00,980  INFO [main] LoginPageTest:34 - launching browser for login Test
+2020-10-29 23:20:01,028  INFO [main] LoginPageTest:36 - entering in to application
+2020-10-29 23:20:01,041  INFO [main] LoginPageTest:41 - ***********************LoginpageTitleTest************************
+2020-10-29 23:20:01,054  WARN [main] LoginPageTest:43 - This is warning for login title
+2020-10-29 23:20:01,820 ERROR [main] LoginPageTest:59 - This is error for browser closing
+2020-10-29 23:20:08,845  INFO [main] LoginPageTest:34 - launching browser for login Test
+2020-10-29 23:20:08,847  INFO [main] LoginPageTest:36 - entering in to application
+2020-10-29 23:20:08,849  INFO [main] LoginPageTest:49 - *******************LoginTest***********************
+2020-10-29 23:20:09,255 FATAL [main] LoginPageTest:51 - this is fatal for id and password
+2020-10-29 23:20:10,219 ERROR [main] LoginPageTest:59 - This is error for browser closing
+2020-10-30 11:48:23,294  INFO [main] LoginPageTest:34 - launching browser for login Test
+2020-10-30 11:48:23,360  INFO [main] LoginPageTest:36 - entering in to application
+2020-10-30 11:48:23,407  INFO [main] LoginPageTest:41 - ***********************LoginpageTitleTest************************
+2020-10-30 11:48:23,486  WARN [main] LoginPageTest:43 - This is warning for login title
+2020-10-30 11:48:24,456 ERROR [main] LoginPageTest:59 - This is error for browser closing
+2020-10-30 11:48:25,065  INFO [main] LoginPageTest:34 - launching browser for login Test
+2020-10-30 11:48:25,122  INFO [main] LoginPageTest:36 - entering in to application
+2020-10-30 11:48:25,149  INFO [main] LoginPageTest:41 - ***********************LoginpageTitleTest************************
+2020-10-30 11:48:25,215  WARN [main] LoginPageTest:43 - This is warning for login title
+2020-10-30 11:48:26,901 ERROR [main] LoginPageTest:59 - This is error for browser closing
+2020-10-30 11:48:32,556  INFO [main] LoginPageTest:34 - launching browser for login Test
+2020-10-30 11:48:32,560  INFO [main] LoginPageTest:36 - entering in to application
+2020-10-30 11:48:32,566  INFO [main] LoginPageTest:49 - *******************LoginTest***********************
+2020-10-30 11:48:33,642 FATAL [main] LoginPageTest:51 - this is fatal for id and password
+2020-10-30 11:48:34,364 ERROR [main] LoginPageTest:59 - This is error for browser closing
+2020-10-30 11:48:35,051  INFO [main] LoginPageTest:34 - launching browser for login Test
+2020-10-30 11:48:35,055  INFO [main] LoginPageTest:36 - entering in to application
+2020-10-30 11:48:35,059  INFO [main] LoginPageTest:49 - *******************LoginTest***********************
+2020-10-30 11:48:35,712 FATAL [main] LoginPageTest:51 - this is fatal for id and password
+2020-10-30 11:48:36,448 ERROR [main] LoginPageTest:59 - This is error for browser closing
+2020-10-30 12:37:17,252  INFO [main] Log4jforFREECRM:32 - launching browser for login Test
+2020-10-30 12:37:17,285  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-10-30 12:37:17,291  INFO [main] Log4jforFREECRM:39 - ***********************LoginpageTitleTest************************
+2020-10-30 12:37:17,301  WARN [main] Log4jforFREECRM:41 - This is warning for login title
+2020-10-30 12:37:17,967 ERROR [main] Log4jforFREECRM:57 - This is error for browser closing
+2020-10-30 12:37:25,042  INFO [main] Log4jforFREECRM:32 - launching browser for login Test
+2020-10-30 12:37:25,044  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-10-30 12:37:25,047  INFO [main] Log4jforFREECRM:47 - *******************LoginTest***********************
+2020-10-30 12:37:25,584 FATAL [main] Log4jforFREECRM:49 - this is fatal for id and password
+2020-10-30 12:37:26,220 ERROR [main] Log4jforFREECRM:57 - This is error for browser closing
+2020-10-30 12:48:28,704  INFO [main] Log4jforFREECRM:37 - launching browser for ContactpageTest
+2020-10-30 12:48:30,085 ERROR [main] Log4jforFREECRM:72 - This is error for Contactpagebrowser closing
+2020-10-30 12:48:30,807  INFO [main] Log4jforFREECRM:55 - This is Datadriven
+2020-10-30 12:48:38,970  INFO [main] Log4jforFREECRM:37 - launching browser for ContactpageTest
+2020-10-30 12:48:41,384 ERROR [main] Log4jforFREECRM:72 - This is error for Contactpagebrowser closing
+2020-10-30 12:48:49,148  INFO [main] Log4jforFREECRM:37 - launching browser for ContactpageTest
+2020-10-30 12:48:52,279 ERROR [main] Log4jforFREECRM:72 - This is error for Contactpagebrowser closing
+2020-10-30 12:49:00,252  INFO [main] Log4jforFREECRM:37 - launching browser for ContactpageTest
+2020-10-30 12:49:04,641 ERROR [main] Log4jforFREECRM:72 - This is error for Contactpagebrowser closing
+2020-10-30 12:49:12,503  INFO [main] Log4jforFREECRM:33 - launching browser for HomepageTest
+2020-10-30 12:49:12,888  INFO [main] Log4jforFREECRM:37 - homepage is here
+2020-10-30 12:49:12,889  INFO [main] Log4jforFREECRM:42 - homepage Titletest
+2020-10-30 12:49:12,898 ERROR [main] Log4jforFREECRM:60 - This is error for Homepagebrowser closing
+2020-10-30 12:49:20,480  INFO [main] Log4jforFREECRM:33 - launching browser for HomepageTest
+2020-10-30 12:49:20,781  INFO [main] Log4jforFREECRM:37 - homepage is here
+2020-10-30 12:49:20,782  INFO [main] Log4jforFREECRM:49 - contactverification test
+2020-10-30 12:49:21,497 ERROR [main] Log4jforFREECRM:60 - This is error for Homepagebrowser closing
+2020-10-30 12:49:28,940  INFO [main] Log4jforFREECRM:33 - launching browser for HomepageTest
+2020-10-30 12:49:29,242  INFO [main] Log4jforFREECRM:37 - homepage is here
+2020-10-30 12:49:30,052 ERROR [main] Log4jforFREECRM:60 - This is error for Homepagebrowser closing
+2020-10-30 12:49:37,800  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-10-30 12:49:37,802  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-10-30 12:49:37,804  INFO [main] Log4jforFREECRM:39 - LoginpageTitleTest
+2020-10-30 12:49:37,820  WARN [main] Log4jforFREECRM:41 - This is warning for login title
+2020-10-30 12:49:37,822 ERROR [main] Log4jforFREECRM:56 - This is error for loginpagebrowser closing
+2020-10-30 12:49:45,642  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-10-30 12:49:45,644  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-10-30 12:49:45,645  INFO [main] Log4jforFREECRM:47 - LoginTest
+2020-10-30 12:49:46,052 FATAL [main] Log4jforFREECRM:49 - this is fatal for id and password
+2020-10-30 12:49:46,053 ERROR [main] Log4jforFREECRM:56 - This is error for loginpagebrowser closing
+2020-10-30 12:53:28,601  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-10-30 12:53:28,632  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-10-30 12:53:28,641  INFO [main] Log4jforFREECRM:39 - LoginpageTitleTest
+2020-10-30 12:53:28,653  WARN [main] Log4jforFREECRM:41 - This is warning for login title
+2020-10-30 12:53:28,667 ERROR [main] Log4jforFREECRM:56 - This is error for loginpagebrowser closing
+2020-10-30 12:53:36,079  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-10-30 12:53:36,081  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-10-30 12:53:36,083  INFO [main] Log4jforFREECRM:47 - LoginTest
+2020-10-30 12:53:36,404 FATAL [main] Log4jforFREECRM:49 - this is fatal for id and password
+2020-10-30 12:53:36,408 ERROR [main] Log4jforFREECRM:56 - This is error for loginpagebrowser closing
+2020-10-30 13:03:21,628  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-10-30 13:03:21,663  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-10-30 13:03:21,671  INFO [main] Log4jforFREECRM:39 - LoginpageTitleTest
+2020-10-30 13:03:21,694  WARN [main] Log4jforFREECRM:41 - This is warning for login title
+2020-10-30 13:03:21,706 ERROR [main] Log4jforFREECRM:56 - This is error for loginpagebrowser closing
+2020-10-30 13:03:29,567  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-10-30 13:03:29,569  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-10-30 13:03:29,572  INFO [main] Log4jforFREECRM:47 - LoginTest
+2020-10-30 13:03:29,903 FATAL [main] Log4jforFREECRM:49 - this is fatal for id and password
+2020-10-30 13:03:29,905 ERROR [main] Log4jforFREECRM:56 - This is error for loginpagebrowser closing
+2020-10-30 14:12:46,837  INFO [main] Log4jforFREECRM:37 - launching browser for ContactpageTest
+2020-10-30 14:12:49,266 ERROR [main] Log4jforFREECRM:72 - This is error for Contactpagebrowser closing
+2020-10-30 14:12:50,198  INFO [main] Log4jforFREECRM:55 - This is Datadriven
+2020-10-30 14:12:58,547  INFO [main] Log4jforFREECRM:37 - launching browser for ContactpageTest
+2020-10-30 14:13:04,059 ERROR [main] Log4jforFREECRM:72 - This is error for Contactpagebrowser closing
+2020-10-30 14:13:12,833  INFO [main] Log4jforFREECRM:37 - launching browser for ContactpageTest
+2020-10-30 14:13:16,671 ERROR [main] Log4jforFREECRM:72 - This is error for Contactpagebrowser closing
+2020-10-30 14:13:25,037  INFO [main] Log4jforFREECRM:37 - launching browser for ContactpageTest
+2020-10-30 14:13:29,781 ERROR [main] Log4jforFREECRM:72 - This is error for Contactpagebrowser closing
+2020-10-30 14:13:38,102  INFO [main] Log4jforFREECRM:33 - launching browser for HomepageTest
+2020-10-30 14:13:38,759  INFO [main] Log4jforFREECRM:37 - homepage is here
+2020-10-30 14:13:38,762  INFO [main] Log4jforFREECRM:42 - homepage Titletest
+2020-10-30 14:13:38,778 ERROR [main] Log4jforFREECRM:60 - This is error for Homepagebrowser closing
+2020-10-30 14:13:47,655  INFO [main] Log4jforFREECRM:33 - launching browser for HomepageTest
+2020-10-30 14:13:48,518  INFO [main] Log4jforFREECRM:37 - homepage is here
+2020-10-30 14:13:48,520  INFO [main] Log4jforFREECRM:49 - contactverification test
+2020-10-30 14:13:49,753 ERROR [main] Log4jforFREECRM:60 - This is error for Homepagebrowser closing
+2020-10-30 14:13:57,144  INFO [main] Log4jforFREECRM:33 - launching browser for HomepageTest
+2020-10-30 14:13:57,552  INFO [main] Log4jforFREECRM:37 - homepage is here
+2020-10-30 14:13:58,661 ERROR [main] Log4jforFREECRM:60 - This is error for Homepagebrowser closing
+2020-10-30 14:14:06,630  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-10-30 14:14:06,633  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-10-30 14:14:06,634  INFO [main] Log4jforFREECRM:39 - LoginpageTitleTest
+2020-10-30 14:14:06,645  WARN [main] Log4jforFREECRM:41 - This is warning for login title
+2020-10-30 14:14:06,648 ERROR [main] Log4jforFREECRM:56 - This is error for loginpagebrowser closing
+2020-10-30 14:14:14,361  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-10-30 14:14:14,363  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-10-30 14:14:14,364  INFO [main] Log4jforFREECRM:47 - LoginTest
+2020-10-30 14:14:14,767 FATAL [main] Log4jforFREECRM:49 - this is fatal for id and password
+2020-10-30 14:14:14,770 ERROR [main] Log4jforFREECRM:56 - This is error for loginpagebrowser closing
+2020-11-02 12:45:06,871  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-02 12:45:06,903  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-11-02 12:45:06,911  INFO [main] Log4jforFREECRM:39 - LoginpageTitleTest
+2020-11-02 12:45:06,921  WARN [main] Log4jforFREECRM:41 - This is warning for login title
+2020-11-02 12:45:06,930 ERROR [main] Log4jforFREECRM:56 - This is error for loginpagebrowser closing
+2020-11-02 12:45:14,757  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-02 12:45:14,759  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-11-02 12:45:14,761  INFO [main] Log4jforFREECRM:47 - LoginTest
+2020-11-02 12:45:15,096 FATAL [main] Log4jforFREECRM:49 - this is fatal for id and password
+2020-11-02 12:45:15,098 ERROR [main] Log4jforFREECRM:56 - This is error for loginpagebrowser closing
+2020-11-02 12:51:09,487  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-02 12:51:09,522  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-11-02 13:05:23,523  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-02 13:05:23,568  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-11-02 13:05:23,580  INFO [main] Log4jforFREECRM:39 - LoginpageTitleTest
+2020-11-02 13:05:23,590  WARN [main] Log4jforFREECRM:41 - This is warning for login title
+2020-11-02 13:05:23,602 ERROR [main] Log4jforFREECRM:56 - This is error for loginpagebrowser closing
+2020-11-02 15:00:29,047  INFO [main] Log4jforFREECRM:37 - launching browser for ContactpageTest
+2020-11-02 15:00:30,803 ERROR [main] Log4jforFREECRM:72 - This is error for Contactpagebrowser closing
+2020-11-02 15:00:31,432  INFO [main] Log4jforFREECRM:55 - This is Datadriven
+2020-11-02 15:00:39,235  INFO [main] Log4jforFREECRM:37 - launching browser for ContactpageTest
+2020-11-02 15:00:43,839 ERROR [main] Log4jforFREECRM:72 - This is error for Contactpagebrowser closing
+2020-11-02 15:00:51,567  INFO [main] Log4jforFREECRM:37 - launching browser for ContactpageTest
+2020-11-02 15:00:55,808 ERROR [main] Log4jforFREECRM:72 - This is error for Contactpagebrowser closing
+2020-11-02 15:01:03,597  INFO [main] Log4jforFREECRM:37 - launching browser for ContactpageTest
+2020-11-02 15:01:07,917 ERROR [main] Log4jforFREECRM:72 - This is error for Contactpagebrowser closing
+2020-11-02 15:01:15,589  INFO [main] Log4jforFREECRM:33 - launching browser for HomepageTest
+2020-11-02 15:01:16,150  INFO [main] Log4jforFREECRM:37 - homepage is here
+2020-11-02 15:01:16,152  INFO [main] Log4jforFREECRM:42 - homepage Titletest
+2020-11-02 15:01:16,163 ERROR [main] Log4jforFREECRM:60 - This is error for Homepagebrowser closing
+2020-11-02 15:01:23,291  INFO [main] Log4jforFREECRM:33 - launching browser for HomepageTest
+2020-11-02 15:01:23,582  INFO [main] Log4jforFREECRM:37 - homepage is here
+2020-11-02 15:01:23,583  INFO [main] Log4jforFREECRM:49 - contactverification test
+2020-11-02 15:01:24,326 ERROR [main] Log4jforFREECRM:60 - This is error for Homepagebrowser closing
+2020-11-02 15:01:31,516  INFO [main] Log4jforFREECRM:33 - launching browser for HomepageTest
+2020-11-02 15:01:31,846  INFO [main] Log4jforFREECRM:37 - homepage is here
+2020-11-02 15:01:32,907 ERROR [main] Log4jforFREECRM:60 - This is error for Homepagebrowser closing
+2020-11-02 15:01:40,421  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-02 15:01:40,423  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-11-02 15:01:40,425  INFO [main] Log4jforFREECRM:39 - LoginpageTitleTest
+2020-11-02 15:01:40,435  WARN [main] Log4jforFREECRM:41 - This is warning for login title
+2020-11-02 15:01:40,437 ERROR [main] Log4jforFREECRM:56 - This is error for loginpagebrowser closing
+2020-11-02 15:01:47,539  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-02 15:01:47,541  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-11-02 15:01:47,542  INFO [main] Log4jforFREECRM:47 - LoginTest
+2020-11-02 15:01:47,887 FATAL [main] Log4jforFREECRM:49 - this is fatal for id and password
+2020-11-02 15:01:47,888 ERROR [main] Log4jforFREECRM:56 - This is error for loginpagebrowser closing
