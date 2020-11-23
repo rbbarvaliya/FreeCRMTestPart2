@@ -323,3 +323,155 @@
 2020-11-02 18:12:11,890 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2020-11-02 18:12:11,890 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2020-11-02 18:12:11,891 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-11-03 23:46:07,129  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-03 23:46:07,154  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-11-03 23:46:07,162  INFO [main] Log4jforFREECRM:39 - LoginpageTitleTest
+2020-11-03 23:46:07,169  WARN [main] Log4jforFREECRM:41 - This is warning for login title
+2020-11-03 23:46:13,827  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-03 23:46:13,829  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-11-03 23:46:13,831  INFO [main] Log4jforFREECRM:47 - LoginTest
+2020-11-03 23:46:14,281 FATAL [main] Log4jforFREECRM:49 - this is fatal for id and password
+2020-11-09 20:02:47,013  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-09 20:02:47,042  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-11-09 20:02:47,052  INFO [main] Log4jforFREECRM:39 - LoginpageTitleTest
+2020-11-09 20:02:47,061  WARN [main] Log4jforFREECRM:41 - This is warning for login title
+2020-11-09 20:02:47,069 ERROR [main] Log4jforFREECRM:55 - This is error for loginpagebrowser closing
+2020-11-09 20:02:54,917  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-09 20:02:54,921  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-11-09 20:02:54,923  INFO [main] Log4jforFREECRM:47 - LoginTest
+2020-11-09 20:02:55,291 FATAL [main] Log4jforFREECRM:49 - this is fatal for id and password
+2020-11-09 20:02:55,293 ERROR [main] Log4jforFREECRM:55 - This is error for loginpagebrowser closing
+2020-11-18 13:45:24,369 ERROR [TestNG-tests-2] Log4jforFREECRM:55 - This is error for loginpagebrowser closing
+2020-11-18 13:45:26,103 ERROR [TestNG-tests-1] Log4jforFREECRM:55 - This is error for loginpagebrowser closing
+2020-11-18 13:45:26,157 ERROR [TestNG-tests-2] Log4jforFREECRM:55 - This is error for loginpagebrowser closing
+2020-11-18 13:45:31,141 ERROR [TestNG-tests-1] Log4jforFREECRM:55 - This is error for loginpagebrowser closing
+2020-11-18 13:45:31,812 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-18 13:45:31,816 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-11-18 13:45:31,819 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-11-18 13:45:31,821 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-11-18 13:45:31,821 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-11-18 13:45:32,198 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-18 13:45:32,199 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-11-18 13:45:32,200 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-11-18 13:45:32,200 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-11-18 13:45:32,201 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-11-18 13:47:12,058 ERROR [TestNG-tests-1] Log4jforFREECRM:55 - This is error for loginpagebrowser closing
+2020-11-18 13:47:12,717 ERROR [TestNG-tests-1] Log4jforFREECRM:55 - This is error for loginpagebrowser closing
+2020-11-18 13:47:12,926 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-18 13:47:12,928 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-11-18 13:47:12,929 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-11-18 13:47:12,930 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-11-18 13:47:12,931 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-11-18 13:47:13,152 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-18 13:47:13,153 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-11-18 13:47:13,153 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-11-18 13:47:13,154 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-11-18 13:47:13,154 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-11-18 13:49:53,013  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-18 13:49:53,035  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-11-18 13:49:53,043  INFO [main] Log4jforFREECRM:39 - LoginpageTitleTest
+2020-11-18 13:49:53,052  WARN [main] Log4jforFREECRM:41 - This is warning for login title
+2020-11-18 13:49:53,060 ERROR [main] Log4jforFREECRM:55 - This is error for loginpagebrowser closing
+2020-11-18 13:49:53,865 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-18 13:49:53,867 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-11-18 13:49:53,869 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-11-18 13:49:53,870 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-11-18 13:49:53,871 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-11-18 13:49:54,107 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-18 13:49:54,108 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-11-18 13:49:54,108 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-11-18 13:49:54,109 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-11-18 13:49:54,109 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-11-18 13:53:59,656  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-18 13:53:59,688  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-11-18 13:53:59,702  INFO [main] Log4jforFREECRM:39 - LoginpageTitleTest
+2020-11-18 13:53:59,709  WARN [main] Log4jforFREECRM:41 - This is warning for login title
+2020-11-18 13:53:59,715 ERROR [main] Log4jforFREECRM:55 - This is error for loginpagebrowser closing
+2020-11-18 13:54:00,542 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-18 13:54:00,544 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-11-18 13:54:00,547 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-11-18 13:54:00,549 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-11-18 13:54:00,549 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-11-18 13:54:00,798 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-18 13:54:00,799 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-11-18 13:54:00,799 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-11-18 13:54:00,808 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-11-18 13:54:00,809 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-11-18 13:54:41,280  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-18 13:54:41,307  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-11-18 13:54:41,318  INFO [main] Log4jforFREECRM:39 - LoginpageTitleTest
+2020-11-18 13:54:41,324  WARN [main] Log4jforFREECRM:41 - This is warning for login title
+2020-11-18 13:54:41,331 ERROR [main] Log4jforFREECRM:55 - This is error for loginpagebrowser closing
+2020-11-18 13:54:42,124 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-18 13:54:42,125 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-11-18 13:54:42,129 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-11-18 13:54:42,129 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-11-18 13:54:42,130 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-11-18 13:54:42,345 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-18 13:54:42,345 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-11-18 13:54:42,346 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-11-18 13:54:42,346 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-11-18 13:54:42,346 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-11-18 13:55:42,651  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-18 13:55:42,680  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-11-18 13:55:42,689  INFO [main] Log4jforFREECRM:39 - LoginpageTitleTest
+2020-11-18 13:55:42,695  WARN [main] Log4jforFREECRM:41 - This is warning for login title
+2020-11-18 13:55:42,703 ERROR [main] Log4jforFREECRM:55 - This is error for loginpagebrowser closing
+2020-11-18 13:55:44,351 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-18 13:55:44,353 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-11-18 13:55:44,355 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-11-18 13:55:44,356 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-11-18 13:55:44,357 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-11-18 13:55:44,569 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-18 13:55:44,570 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-11-18 13:55:44,571 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-11-18 13:55:44,571 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-11-18 13:55:44,572 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-11-18 14:03:11,299  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-18 14:03:11,320  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-11-18 14:03:11,327  INFO [main] Log4jforFREECRM:39 - LoginpageTitleTest
+2020-11-18 14:03:11,335  WARN [main] Log4jforFREECRM:41 - This is warning for login title
+2020-11-18 14:03:11,343 ERROR [main] Log4jforFREECRM:55 - This is error for loginpagebrowser closing
+2020-11-18 14:03:18,795  INFO [main] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-18 14:03:18,797  INFO [main] Log4jforFREECRM:34 - entering in to application
+2020-11-18 14:03:18,799  INFO [main] Log4jforFREECRM:47 - LoginTest
+2020-11-18 14:03:19,212 FATAL [main] Log4jforFREECRM:49 - this is fatal for id and password
+2020-11-18 14:03:19,214 ERROR [main] Log4jforFREECRM:55 - This is error for loginpagebrowser closing
+2020-11-18 14:06:00,884  INFO [TestNG-test=FREE CRM App Test Cases-2] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-18 14:06:00,929  INFO [TestNG-test=FREE CRM App Test Cases-2] Log4jforFREECRM:34 - entering in to application
+2020-11-18 14:06:00,942  INFO [TestNG-test=FREE CRM App Test Cases-2] Log4jforFREECRM:47 - LoginTest
+2020-11-18 14:06:01,793  INFO [TestNG-test=FREE CRM App Test Cases-1] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-18 14:06:01,798  INFO [TestNG-test=FREE CRM App Test Cases-1] Log4jforFREECRM:34 - entering in to application
+2020-11-18 14:06:01,803  INFO [TestNG-test=FREE CRM App Test Cases-1] Log4jforFREECRM:39 - LoginpageTitleTest
+2020-11-18 14:06:01,839  WARN [TestNG-test=FREE CRM App Test Cases-1] Log4jforFREECRM:41 - This is warning for login title
+2020-11-18 14:06:01,860 ERROR [TestNG-test=FREE CRM App Test Cases-1] Log4jforFREECRM:55 - This is error for loginpagebrowser closing
+2020-11-18 14:06:07,257 ERROR [TestNG-test=FREE CRM App Test Cases-2] Log4jforFREECRM:55 - This is error for loginpagebrowser closing
+2020-11-18 14:06:07,571 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-18 14:06:07,573 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-11-18 14:06:07,576 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-11-18 14:06:07,578 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-11-18 14:06:07,579 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-11-18 14:06:07,877 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-18 14:06:07,878 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-11-18 14:06:07,878 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-11-18 14:06:07,879 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-11-18 14:06:07,879 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-11-18 14:06:24,826  INFO [TestNG-test=FREE CRM App Test Cases-2] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-18 14:06:24,889  INFO [TestNG-test=FREE CRM App Test Cases-2] Log4jforFREECRM:34 - entering in to application
+2020-11-18 14:06:24,903  INFO [TestNG-test=FREE CRM App Test Cases-2] Log4jforFREECRM:47 - LoginTest
+2020-11-18 14:06:26,150  INFO [TestNG-test=FREE CRM App Test Cases-1] Log4jforFREECRM:32 - ******************launching browser for LoginPageTest Test****************
+2020-11-18 14:06:26,158  INFO [TestNG-test=FREE CRM App Test Cases-1] Log4jforFREECRM:34 - entering in to application
+2020-11-18 14:06:26,167  INFO [TestNG-test=FREE CRM App Test Cases-1] Log4jforFREECRM:39 - LoginpageTitleTest
+2020-11-18 14:06:26,208  WARN [TestNG-test=FREE CRM App Test Cases-1] Log4jforFREECRM:41 - This is warning for login title
+2020-11-18 14:06:26,229 ERROR [TestNG-test=FREE CRM App Test Cases-1] Log4jforFREECRM:55 - This is error for loginpagebrowser closing
+2020-11-18 14:06:32,539 ERROR [TestNG-test=FREE CRM App Test Cases-2] Log4jforFREECRM:55 - This is error for loginpagebrowser closing
+2020-11-18 14:06:33,047 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-18 14:06:33,050 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-11-18 14:06:33,053 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-11-18 14:06:33,055 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-11-18 14:06:33,055 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-11-18 14:06:33,467 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-18 14:06:33,468 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-11-18 14:06:33,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-11-18 14:06:33,470 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-11-18 14:06:33,471 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

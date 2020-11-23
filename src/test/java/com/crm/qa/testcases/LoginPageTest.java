@@ -42,7 +42,7 @@ public class LoginPageTest extends TestBase{
 		Assert.assertEquals(title, "Cogmento CRM");
 	}
 	
-	@Test (groups="smoke")
+	@Test (groups= {"smoke"})
 	public void loginTest() {
 		log.info("LoginTest");
 		homePage = loginPage.login(prop.getProperty("username"), prop.getProperty("password"));
