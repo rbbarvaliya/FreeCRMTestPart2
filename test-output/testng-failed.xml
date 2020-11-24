@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [FREE CRM application test automation Test Suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="FREE CRM App Test Cases(failed)">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [FREE CRM application test automation Test Suite]" parallel="methods">
+  <listeners>
+    <listener class-name="com.crm.qaExtentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="2" name="FREE CRM App Test Cases(failed)" parallel="methods">
     <groups>
       <run>
         <include name="sanity"/>
@@ -10,7 +13,9 @@
     <classes>
       <class name="com.crm.qa.testcases.LoginPageTest">
         <methods>
-          <include name="loginPageTitleTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="loginTest"/>
         </methods>
       </class> <!-- com.crm.qa.testcases.LoginPageTest -->
     </classes>
