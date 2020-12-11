@@ -16,8 +16,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Parameters;
+
 
 import com.crm.qa.util.TestUtil;
 import com.crm.qa.util.WebEventListener;
@@ -47,7 +46,6 @@ public class TestBase {
 
 	public static void initialization() throws IOException {
 		String browserName = prop.getProperty("browser");
-		System.out.println("Thred ID:" + Thread.currentThread().getId());
 		if (browserName.equals("chrome")){
 		    System.setProperty("webdriver.chrome.driver","C:\\Users\\ravin\\Downloads\\chromedriver.exe");
 		    driver = new ChromeDriver();

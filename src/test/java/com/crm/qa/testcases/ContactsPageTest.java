@@ -39,8 +39,6 @@ public class ContactsPageTest extends TestBase {
 		contactsPage = new ContactsPage();
 		loginPage = new LoginPage();
 		homePage = loginPage.login(prop.getProperty("username"), prop.getProperty("password"));
-		//TestUtil.runTimeInfo("error", "login successful");
-		///testUtil.switchToFrame();
 		contactsPage = homePage.clickOnContactsLink();
 	}
 	
@@ -52,7 +50,7 @@ public class ContactsPageTest extends TestBase {
 	
 	@DataProvider
 	public Object[][] getCRMTestData(){
-		log.info("This is Datadriven");
+		log.info("*************This is Datadriven************");
 		Object data[][] = TestUtil.getTestData(sheetName);
 		return data;
 	}
