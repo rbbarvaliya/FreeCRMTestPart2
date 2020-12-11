@@ -22,10 +22,6 @@ public class LoginPageTest extends TestBase{
 		super();	
 	}
 	
-//	log = LogManager.getLogger(LoginPageTest.class);	
-	
-	
-	
 	@BeforeMethod (alwaysRun = true)
 	public void setUp() throws IOException {
 		initialization();

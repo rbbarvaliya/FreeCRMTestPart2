@@ -17,7 +17,12 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Parameters;
+>>>>>>> 463f99de87e260e1eec5c4a72fd50f6b5b25363e
 =======
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Parameters;
